@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/addNewExpense-react-app/static/css/main.97d2823c.chunk.css",
+    "main.js": "/addNewExpense-react-app/static/js/main.c6fce579.chunk.js",
+    "main.js.map": "/addNewExpense-react-app/static/js/main.c6fce579.chunk.js.map",
+    "runtime-main.js": "/addNewExpense-react-app/static/js/runtime-main.a11e77c2.js",
+    "runtime-main.js.map": "/addNewExpense-react-app/static/js/runtime-main.a11e77c2.js.map",
+    "static/js/2.bad4da20.chunk.js": "/addNewExpense-react-app/static/js/2.bad4da20.chunk.js",
+    "static/js/2.bad4da20.chunk.js.map": "/addNewExpense-react-app/static/js/2.bad4da20.chunk.js.map",
+    "index.html": "/addNewExpense-react-app/index.html",
+    "static/css/main.97d2823c.chunk.css.map": "/addNewExpense-react-app/static/css/main.97d2823c.chunk.css.map",
+    "static/js/2.bad4da20.chunk.js.LICENSE.txt": "/addNewExpense-react-app/static/js/2.bad4da20.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a11e77c2.js",
+    "static/js/2.bad4da20.chunk.js",
+    "static/css/main.97d2823c.chunk.css",
+    "static/js/main.c6fce579.chunk.js"
+  ]
+}
